@@ -1,0 +1,108 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">App30Dias</string>
+    <string name="titulo1">Começar</string>
+    <string name="texto1">Começar é o passo mais importante para transformar seu corpo.</string>
+
+    <string name="titulo2">Persistência</string>
+    <string name="texto2">A disciplina diária constrói resultados consistentes e duradouros.</string>
+
+    <string name="titulo3">Força</string>
+    <string name="texto3">Exercite seu corpo para fortalecer sua mente e espírito.</string>
+
+    <string name="titulo4">Equilíbrio</string>
+    <string name="texto4">Busque harmonia entre treino e descanso para um progresso saudável.</string>
+
+    <string name="titulo5">Motivação</string>
+    <string name="texto5">Cada repetição é um passo a mais na direção dos seus objetivos.</string>
+
+    <string name="titulo6">Superação</string>
+    <string name="texto6">Ultrapasse seus limites e descubra a força que há em você.</string>
+
+    <string name="titulo7">Resiliência</string>
+    <string name="texto7">Encare os desafios e mantenha o foco, mesmo nos dias difíceis.</string>
+
+    <string name="titulo8">Consistência</string>
+    <string name="texto8">Treinar regularmente é a chave para conquistar grandes resultados.</string>
+
+    <string name="titulo9">Foco</string>
+    <string name="texto9">Concentre-se no presente para construir um futuro mais saudável.</string>
+
+    <string name="titulo10">Determinação</string>
+    <string name="texto10">A determinação transforma sonhos em metas alcançadas.</string>
+
+    <string name="titulo11">Evolução</string>
+    <string name="texto11">Cada treino é uma oportunidade para evoluir e se superar.</string>
+
+    <string name="titulo12">Vitalidade</string>
+    <string name="texto12">Movimente seu corpo e sinta a energia renovada a cada dia.</string>
+
+    <string name="titulo13">Inspiração</string>
+    <string name="texto13">Deixe-se inspirar pelo progresso e celebre cada conquista.</string>
+
+    <string name="titulo14">Força Interior</string>
+    <string name="texto14">Sua mente é tão poderosa quanto seus músculos; acredite em você.</string>
+
+    <string name="titulo15">Harmonia</string>
+    <string name="texto15">Equilibre esforço e recuperação para alcançar um bem-estar completo.</string>
+
+    <string name="titulo16">Persistência</string>
+    <string name="texto16">Acredite no processo e mantenha a disciplina, mesmo quando for difícil.</string>
+
+    <string name="titulo17">Disciplina</string>
+    <string name="texto17">A disciplina diária é a base para um corpo e mente saudáveis.</string>
+
+    <string name="titulo18">Vigor</string>
+    <string name="texto18">Sinta o vigor de um corpo bem cuidado e cheio de energia.</string>
+
+    <string name="titulo19">Desafio</string>
+    <string name="texto19">Encare cada desafio como uma oportunidade para crescer e se fortalecer.</string>
+
+    <string name="titulo20">Conquista</string>
+    <string name="texto20">Cada vitória, por menor que seja, é resultado do seu esforço diário.</string>
+
+    <string name="titulo21">Energia</string>
+    <string name="texto21">Renove sua energia com exercícios e uma alimentação balanceada.</string>
+
+    <string name="titulo22">Transformação</string>
+    <string name="texto22">Transforme seu estilo de vida e abrace uma nova versão de si mesmo.</string>
+
+    <string name="titulo23">Resistência</string>
+    <string name="texto23">Desenvolva resistência para superar obstáculos e alcançar novos patamares.</string>
+
+    <string name="titulo24">Inspiração</string>
+    <string name="texto24">Inspire-se com cada progresso e mantenha a chama da motivação acesa.</string>
+
+    <string name="titulo25">Autoestima</string>
+    <string name="texto25">Valorize seu corpo, celebre suas conquistas e fortaleça sua autoestima.</string>
+
+    <string name="titulo26">Fé</string>
+    <string name="texto26">Acredite em si mesmo e confie no poder da mudança.</string>
+
+    <string name="titulo27">Paciência</string>
+    <string name="texto27">Resultados exigem tempo; seja paciente e persistente no seu caminho.</string>
+
+    <string name="titulo28">Determinação</string>
+    <string name="texto28">Mantenha o foco e a determinação para transformar cada esforço em sucesso.</string>
+
+    <string name="titulo29">Gratidão</string>
+    <string name="texto29">Agradeça por cada pequeno progresso e continue avançando.</string>
+
+    <string name="titulo30">Vitória</string>
+    <string name="texto30">Hoje é o dia da vitória; celebre seu esforço e conquistas.</string>
+
+</resources>
