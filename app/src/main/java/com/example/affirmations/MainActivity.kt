@@ -39,7 +39,6 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             AffirmationsTheme {
-                // A surface container using the 'background' color from the theme
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
@@ -75,7 +74,7 @@ fun AffirmationCard(affirmation: Affirmation, modifier: Modifier = Modifier) {
     var estadoTexto by remember { mutableStateOf(false) } // Estado para controlar a visibilidade do texto
 
     Card(modifier = modifier) {
-        // Aplicando animateContentSize para animar a mudança de tamanho da coluna
+        // animateContentSize para animar a mudança de tamanho
         Column(modifier = Modifier.animateContentSize(animationSpec = spring())) {
             Text(
                 text = LocalContext.current.getString(affirmation.tituloResourceId),
@@ -93,11 +92,11 @@ fun AffirmationCard(affirmation: Affirmation, modifier: Modifier = Modifier) {
                 contentScale = ContentScale.Crop
             )
 
-            // Se estadoTexto é verdadeiro, exibe o texto, e a altura da coluna se ajusta ao tamanho do texto
+            // Exibe o texto e a altura da coluna se ajusta ao tamanho do texto
             if (estadoTexto) {
                 Text(
                     text = LocalContext.current.getString(affirmation.stringResourceId),
-                    modifier = Modifier.padding(16.dp),
+                    modifier = Modifier.padding(17.dp),
                     style = MaterialTheme.typography.headlineSmall
                 )
             }
